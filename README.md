@@ -35,7 +35,8 @@ first version didnt give you any items at beginning, forcing you to either find 
 - diamonds no longer generate as ores
 - difficulty is set to hard
 - end crystals respawn in 60 seconds unless all of them are destroyed at the same time
-
+- trees no longer drop saplings
+- lapis ore drops only one lapis
 
 # IF YOU EXPERIENCE LOW TPS
 this is caused by **one**, and only one thing. *follow range*. in order to get tps back to normal, type
