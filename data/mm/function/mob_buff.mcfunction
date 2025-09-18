@@ -1,6 +1,8 @@
 attribute @s minecraft:attack_damage modifier add buff 2 add_multiplied_total
 attribute @s minecraft:max_health modifier add buff 4 add_multiplied_total
-attribute @s follow_range base set 128
+######### change value below if you experience lag ###################################
+execute unless score #no_lag int matches 1 run attribute @s follow_range base set 128
+################################################################################
 
 execute if entity @s[type=phantom] run data modify entity @s Silent set value 1b
 data modify entity @s Health set value 32767.0f
