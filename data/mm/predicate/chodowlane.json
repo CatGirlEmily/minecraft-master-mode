@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#mm:chodowla",
+    "nbt": "{last_hurt_by_player_memory_time:100}"
+  }
+}
