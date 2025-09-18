@@ -1,4 +1,4 @@
-# minecraft-master-mode
+# minecraft-master-mode (1.21.8)
 Remember [Expert Mode](https://github.com/CatGirlEmily/minecraft-expert-mode)? Minecraft Master Mode is a sequel, with difficulty being increased dramatically.
 This is a datapack featuring some of my ideas ive had while playing expert mode. i heavily DO NOT recommend playing it though, its not fun.
 
